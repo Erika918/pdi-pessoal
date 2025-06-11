@@ -27,9 +27,9 @@ body {
     text-decoration: none;
   }
 
-  a:hover {
-    text-decoration: underline;
-  }
+a:hover {
+  text-decoration: underline;
+}
 
   /* Responsividade para dispositivos menores */
   @media (max-width: 600px) {
