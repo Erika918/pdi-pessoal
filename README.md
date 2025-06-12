@@ -1,6 +1,6 @@
 # pdi-pessoal
 
-Um repositório de aprendizado e desenvolvimento
+Um repositório de aprendizado e desenvolvimento!
 # 🎯 PDI - Erika Barbosa
 
 ## Objetivo Profissional

@@ -30,7 +30,6 @@ body {
 a:hover {
   text-decoration: underline;
 }
-
   /* Responsividade para dispositivos menores */
   @media (max-width: 600px) {
     section {
