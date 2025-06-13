@@ -1,6 +1,6 @@
 # pdi-pessoal
 
-Um repositório de aprendizado e desenvolvimento
+Um repositório de aprendizado e desenvolvimento!
 # 🎯 PDI - Erika Barbosa
 
 ## Objetivo Profissional
@@ -15,6 +15,8 @@ aplicando **HTML**, **CSS**, **JavaScript** e integração com **APIs** em proje
 ### 🎯 Objetivo: Consolidar base do desenvolvimento web
 
 ### Cursos concluídos:
+- 🌍 Criando Páginas Web com o GitHub Pages – Udemy (https://www.udemy.com)
+- 💻 Git e GitHub para Iniciantes – Udemy (https://www.udemy.com)
 - 👥 [Fundamentos do Atendimento ao Cliente](https://www.linkedin.com/learning/certificates/a55b098797b0b0d879528ab5e5f7199379edd056a81bc01619c97ff99f0d2341?trk=share_certificate)
 - 📊 [Fundamentos de Gestão de Projetos](https://www.linkedin.com/learning/certificates/8e7b8e35adc29e12e8af3ba94f9cb59c20f2353b7fd6cfccbc9abbb36b0bf7c3?trk=share_certificate)
 - 🌐 [Curso de HTML](https://www.linkedin.com/learning/certificates/50909d0e6a9ca5fbdc221efb071be3779f9cba6d64398ffea2ac01ca8f79e392?trk=share_certificate)
