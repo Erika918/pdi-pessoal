@@ -23,6 +23,7 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
+
   /* Responsividade para dispositivos menores */
   @media (max-width: 600px) {
     section {
