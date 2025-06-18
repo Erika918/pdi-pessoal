@@ -38,8 +38,6 @@ Senti mais facilidade com HTML por seu caráter visual e estruturado.
 ### 📅 Médio Prazo (3–6 meses)
 **Objetivo:** Praticar com projetos e aprender frameworks
 
-- ✔️ Git e GitHub — [Curso LinkedIn Learning](https://br.linkedin.com/learning/git-e-github-formacao-basica)
-- ✔️ JavaScript Intermediário — [Curso LinkedIn Learning](https://www.linkedin.com/learning/javascript-enhancing-the-dom-23744475)
 - Projetos práticos (Landing Pages, To-do Lists, Portfólios)
 
 ---
