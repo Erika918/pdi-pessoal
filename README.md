@@ -1,52 +1,81 @@
-# pdi-pessoal
+# 🧠 Plano de Desenvolvimento Individual (PDI) – Erika Barbosa
 
-Um repositório de aprendizado e desenvolvimento!
-# 🎯 PDI - Erika Barbosa
+## 🎯 Objetivo Geral
 
-## Objetivo Profissional
-
-Construir uma base sólida em desenvolvimento web nos próximos 24 meses,  
-aplicando **HTML**, **CSS**, **JavaScript** e integração com **APIs** em projetos práticos.
+Desenvolver competências sólidas em **Desenvolvimento Web**, com foco em **HTML, CSS, JavaScript, APIs e frameworks como React**, construindo projetos práticos que consolidem o aprendizado teórico.
 
 ---
 
-## ✅ Etapas do Planejamento (PDI)
+## 📍 Etapas de Aprendizado
 
-### 🎯 Objetivo: Consolidar base do desenvolvimento web
+### 🔹 Curto Prazo (0–3 meses)  
+**Objetivo:** Consolidar os fundamentos de front-end, lógica de programação e versionamento de código.
 
-### Cursos concluídos:
-- 👥 [Fundamentos do Atendimento ao Cliente](https://www.linkedin.com/learning/certificates/a55b098797b0b0d879528ab5e5f7199379edd056a81bc01619c97ff99f0d2341?trk=share_certificate)
-- 📊 [Fundamentos de Gestão de Projetos](https://www.linkedin.com/learning/certificates/8e7b8e35adc29e12e8af3ba94f9cb59c20f2353b7fd6cfccbc9abbb36b0bf7c3?trk=share_certificate)
-- 🌐 [Curso de HTML](https://www.linkedin.com/learning/certificates/50909d0e6a9ca5fbdc221efb071be3779f9cba6d64398ffea2ac01ca8f79e392?trk=share_certificate)
-- 🎨 [Curso de CSS](https://www.linkedin.com/learning/certificates/a2d85c4156abf8f0faa1135e4c33a1d3e74cf84c677b555ef3f36912813a7f77?trk=share_certificate)
-- 🟨 [Curso de JavaScript básico](https://www.linkedin.com/learning/certificates/46dbe286959aca8085940faa31188b1b4f5dc2331436383e636561dfdcd24f74?trk=share_certificate)
+#### 📚 Cursos Concluídos
+- 👥 Fundamentos do Atendimento ao Cliente  
+- 📊 Fundamentos de Gestão de Projetos  
+- 🌐 Curso de HTML  
+- 🎨 Curso de CSS  
+- 🟨 Curso de JavaScript Básico  
+- 🧠 Algoritmos e Lógica de Programação  
+- 🐍 Python – Banco de Dados, ETL Avançado e Automação Web + GitHub  
+---
 
-### Cursos em andamento:
-- 🧠 Algoritmos e Lógica de Programação
-- 🐍 Python – Banco de Dados, ETL Avançado e Automação Web + GitHub
+#### 📂 Projetos Desenvolvidos
+
+- 🔗 [GitHub User Finder](https://erika918.github.io/github-api-user/)  
+  Integração com a API do GitHub para buscar usuários e exibir repositórios.
+
+- 🔗 [Landing Page Profissional](https://erika918.github.io/erikabarbosacruz.github.io/)  
+  Projeto com design institucional, construído com HTML e CSS responsivo.
+
+#### 📘 Relato de Aprendizado
+
+Durante essa fase, me aprofundei em HTML e CSS, percebendo facilidade com estrutura visual.  
+Com Python, explorei lógica e automações simples. Documentei esse processo no tutorial abaixo:
+
+👉 [Ler tutorial completo (Python + HTML)](tutorial.html)
 
 ---
 
-### 📘 Tutorial de Aprendizado em Python e HTML
-Durante meu desenvolvimento, explorei tanto o **Python** quanto o **HTML**, com foco inicial em páginas web e automações básicas.  
-Senti mais facilidade com HTML por seu caráter visual e estruturado.
+### 🔹 Médio Prazo (3–6 meses)  
+**Objetivo:** Aplicar os conhecimentos adquiridos em projetos completos e iniciar o estudo de bibliotecas como React.
 
-👉 [Clique aqui para acessar o tutorial completo](tutorial.md)
+#### ✅ Progresso Realizado
+
+- ✅ Criação de páginas interativas com **JavaScript** manipulando elementos do DOM  
+- ✅ Consumo de APIs públicas com **fetch()**, como no projeto **GitHub User Finder**  
+- ✅ Desenvolvimento de **Landing Page** responsiva com HTML e CSS  
+- ✅ Uso de **Git e GitHub** para versionamento e publicação dos projetos no GitHub Pages  
+- ✅ Organização e documentação dos estudos com estrutura clara em HTML e Markdown  
+- ✅ Início do estudo introdutório de **React.js** com foco em estrutura de componentes
+
+#### 🔜 Próximas Etapas (em andamento)
+
+- Estudo prático de **hooks**, **JSX** e **props** no React  
+- Ampliação do portfólio com novos projetos React  
+- Simulação de um sistema CRUD simples com dados fictícios
 
 ---
 
-### 📅 Médio Prazo (3–6 meses)
-**Objetivo:** Praticar com projetos e aprender frameworks
+### 🔹 Longo Prazo (6–12 meses)  
+**Objetivo:** Aprofundar conhecimentos em desenvolvimento web moderno e práticas de mercado.
 
-- Projetos práticos (Landing Pages, To-do Lists, Portfólios)
+#### 📌 Planos de estudo
+- 📚 Curso completo de **React.js**
+- ⚙️ Implementar rotas, hooks e conexão com APIs reais
+- 🧑‍💻 Publicar portfólio completo em GitHub Pages ou Vercel
+- 📝 Participar de simulações de entrevistas e desafios técnicos
+- 🔄 Atualizar o perfil do LinkedIn com projetos desenvolvidos
+- ☎️ Inicia o curso de **Help Desk**, com foco em infraestrutura e suporte técnico
 
 ---
 
-### 📅 Longo Prazo (6–12 meses)
-**Objetivo:** Aprofundar conhecimentos com bibliotecas e construir portfólio
+- 💼 [LinkedIn – Erika Barbosa](https://www.linkedin.com/in/erika-barbosa-da-cruz-587911186/)
+- 📧 erikaregis42@gmail.com
+- 🌐 [Portfólio no GitHub Pages](https://erika918.github.io/erikabarbosacruz.github.io/)
 
-- Curso de React.js (básico ao intermediário)
-- Projetos com APIs públicas (GitHub, clima, etc.)
-- Publicar portfólio no GitHub Pages ou Vercel
-- Atualizar perfil do LinkedIn com os projetos
-- Simular entrevistas e aplicar para vagas Júnior
+---
+
+> Este repositório é um reflexo do meu crescimento como desenvolvedora iniciante. Estou aberta a sugestões, colaborações e oportunidades de aprendizado!
+
